@@ -1,0 +1,26 @@
+h1{front-size: 50Spx;
+color: red;
+text-align: centr;}
+/*body{background-color:beige;} šis krāsu fona paraugs bla bla bla */
+body {background-image: url("fons.webp");}
+body {background-color:rgb(169, 18, 43);}
+h2{front-size: 25;
+color:#bf28bf;}
+
+
+
+.block
+{display: inline-block;
+background: skyblue;
+width: 100px;
+height: 100px;
+border: 1px solid orchid;
+}
+
+.block2
+{display: inline-block;
+background: rgb(236, 12, 12);
+width: 500px;
+height: 600px;
+border: 1px solid orchid;
+}
